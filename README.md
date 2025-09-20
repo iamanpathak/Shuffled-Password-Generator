@@ -1,4 +1,4 @@
-# Shuffled Password Generator 🔐✨
+# Shuffled Password Generator 🔐
 
 Generate strong, secure, and fully customizable passwords with ease!  
 This Java program allows you to specify password length, number of uppercase, lowercase, digits, and special characters, then shuffles them for maximum security.  
